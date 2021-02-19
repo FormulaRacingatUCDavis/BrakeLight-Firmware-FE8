@@ -1,2 +1,2 @@
-# BrakeLight-Software-FE8
+# BrakeLight-Firmware-FE8
 Brake Light Firmware 
